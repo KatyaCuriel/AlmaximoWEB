@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlmaximoWEB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00737bef58e2ac2ef52ae33dde5403f839fb19ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlmaximoWEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlmaximoWEB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

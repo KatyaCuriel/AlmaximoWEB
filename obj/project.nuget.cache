@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v0+tuOKIyAZa5rWA2ftk4OMQ/ASLmagH6AsXINQ6lRac7yna2zMbG2I3QbJh5if8EY3pn7vbmK2SSX5K3s70Gg==",
+  "dgSpecHash": "uUDCq/Oy8XvULyjvxXuaw2EN/4Sk0hh0FvWHsEgtp9KX02aJFuOHba6vwR5DLd7NBJAxnuWxD/iV41LuvcLbxg==",
   "success": true,
-  "projectFilePath": "D:\\Proyectos\\AlmaximoWEB\\AlmaximoWEB\\AlmaximoWEB.csproj",
+  "projectFilePath": "D:\\Proyectos\\GitHub\\AlmaximoWEB\\AlmaximoWEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\katic\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\katic\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

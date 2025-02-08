@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\AlmaximoWEB\\AlmaximoWEB\\AlmaximoWEB.csproj": {}
+    "D:\\Proyectos\\GitHub\\AlmaximoWEB\\AlmaximoWEB.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\AlmaximoWEB\\AlmaximoWEB\\AlmaximoWEB.csproj": {
+    "D:\\Proyectos\\GitHub\\AlmaximoWEB\\AlmaximoWEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\AlmaximoWEB\\AlmaximoWEB\\AlmaximoWEB.csproj",
+        "projectUniqueName": "D:\\Proyectos\\GitHub\\AlmaximoWEB\\AlmaximoWEB.csproj",
         "projectName": "AlmaximoWEB",
-        "projectPath": "D:\\Proyectos\\AlmaximoWEB\\AlmaximoWEB\\AlmaximoWEB.csproj",
+        "projectPath": "D:\\Proyectos\\GitHub\\AlmaximoWEB\\AlmaximoWEB.csproj",
         "packagesPath": "C:\\Users\\katic\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\AlmaximoWEB\\AlmaximoWEB\\obj\\",
+        "outputPath": "D:\\Proyectos\\GitHub\\AlmaximoWEB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\katic\\AppData\\Roaming\\NuGet\\NuGet.Config",
